@@ -117,5 +117,6 @@ This project performs Customer Segmentation Analysis using the K-Means Clusterin
 **Recommendation:** Re-engagement campaigns and seasonal offers.
 
 ## Conclusion
+ 
 
 Customer segmentation using K-Means helps businesses understand customer behaviour and improve marketing strategies through personalized campaigns.
